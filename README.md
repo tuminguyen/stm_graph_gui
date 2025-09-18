@@ -1,7 +1,9 @@
 # STM-Graph Graphic User Interface (v1.0.0)
+[![ACM CIKM ’25 — Resource Paper](https://img.shields.io/badge/ACM%20CIKM%20%E2%80%9925-Resource%20Paper-blueviolet)](https://doi.org/10.1145/3746252.3761645)
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3746252.3761645-2ea44f)](https://doi.org/10.1145/3746252.3761645)
+> 🏆 **Accepted at ACM CIKM ’25 (Resource Track)** — November 10–14, 2025, Seoul. [Read the paper](https://doi.org/10.1145/3746252.3761645)
 
-
-This is the _"code-free"_ version of [STM-Graph](https://github.com/Ahghaffari/stm_graph) python library, suitable for users who prefer a graphical interface to interact with the library's features. The GUI is designed to simplify the process of working with urban datasets, from data generation to model training, without requiring extensive programming knowledge.
+This is the official _"code-free"_ version of [STM-Graph](https://github.com/Ahghaffari/stm_graph) python library, suitable for users who prefer a graphical interface to interact with the library's features. The GUI is designed to simplify the process of working with urban datasets, from data generation to model training, without requiring extensive programming knowledge.
 
 
 On this page, you can find the installation instructions, a brief overview of the features, and how to use the GUI.
