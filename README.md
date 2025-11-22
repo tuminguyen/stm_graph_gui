@@ -121,4 +121,13 @@ If you prefer not to run the source code, you can download the pre-built executa
 N.B. You may need to run ```chmod +x [execution_file]``` if you face permission issues on your Linux system.
 
 ## Citation
-If you find this GUI useful, please consider citing our original paper work - TBU
+If you find this GUI useful, please consider citing our original paper work.
+
+@inproceedings{ghaffari2025stm,
+  title={STM-Graph: A Python Framework for Spatio-Temporal Mapping and Graph Neural Network Predictions},
+  author={Ghaffari, Amirhossein and Nguyen, Huong and Lov{\'e}n, Lauri and Gilman, Ekaterina},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
+  pages={6377--6381},
+  year={2025}
+}
+
