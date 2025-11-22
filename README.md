@@ -123,6 +123,7 @@ N.B. You may need to run ```chmod +x [execution_file]``` if you face permission 
 ## Citation
 If you find this GUI useful, please consider citing our original paper work.
 
+```
 @inproceedings{ghaffari2025stm,
   title={STM-Graph: A Python Framework for Spatio-Temporal Mapping and Graph Neural Network Predictions},
   author={Ghaffari, Amirhossein and Nguyen, Huong and Lov{\'e}n, Lauri and Gilman, Ekaterina},
@@ -130,4 +131,4 @@ If you find this GUI useful, please consider citing our original paper work.
   pages={6377--6381},
   year={2025}
 }
-
+```
